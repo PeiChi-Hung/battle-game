@@ -1,4 +1,5 @@
 **INTRODUCTION**
+
 This is a game for two player. It involves the purchasing of different kinds of units to create an army in order to battle the army against another player until a victor is produced. The armies can be arranged in different formations, and each player are given certain amount of money to purchase a variety of units. 
 
 Unit Types: 
